@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivenj.github.io</id>
     <title>Zhiyuan Jiang</title>
-    <updated>2022-08-31T04:57:05.578Z</updated>
+    <updated>2022-08-31T04:58:12.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://olivenj.github.io"/>
     <link rel="self" href="https://olivenj.github.io/atom.xml"/>
     <logo>https://olivenj.github.io/images/avatar.png</logo>
     <icon>https://olivenj.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Zhiyuan Jiang</rights>
+    <entry>
+        <title type="html"><![CDATA[Economic Development and Women in Congress]]></title>
+        <id>https://olivenj.github.io/post/economic-development-and-women-in-congress/</id>
+        <link href="https://olivenj.github.io/post/economic-development-and-women-in-congress/">
+        </link>
+        <updated>2022-08-30T04:55:38.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Retail Forecast]]></title>
         <id>https://olivenj.github.io/post/project-retail-forecast/</id>
