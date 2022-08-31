@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivenj.github.io</id>
     <title>Zhiyuan Jiang</title>
-    <updated>2022-08-31T03:36:01.355Z</updated>
+    <updated>2022-08-31T03:41:23.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://olivenj.github.io"/>
     <link rel="self" href="https://olivenj.github.io/atom.xml"/>
@@ -28,10 +28,26 @@
         <id>https://olivenj.github.io/post/about/</id>
         <link href="https://olivenj.github.io/post/about/">
         </link>
-        <updated>2022-08-29T01:59:19.000Z</updated>
+        <updated>2022-08-27T13:59:19.000Z</updated>
         <summary type="html"><![CDATA[<p>Passion, dedicate, easy going, and quick learner</p>
+<p>Hey, I am Zhiyuan Jiang, a Master student from Duke university major in Economics.</p>
+<h2 id="academic-background">🏫Academic Background</h2>
+<p>I received education in both United States and Australia.<br>
+My academic interest covered a broad topics including finance, economics, and statistics.</p>
+<h2 id="professional-experience">💼Professional Experience</h2>
+<p>My main professional experiences are focusing investment, which provides me a unique business prospects most data analysts and data scientists does not have.<br>
+This will help me to provide better insights and suggestions to the companies marketing, operations and other teams.</p>
+<h2 id="skills">🛠 Skills</h2>
 ]]></summary>
         <content type="html"><![CDATA[<p>Passion, dedicate, easy going, and quick learner</p>
+<p>Hey, I am Zhiyuan Jiang, a Master student from Duke university major in Economics.</p>
+<h2 id="academic-background">🏫Academic Background</h2>
+<p>I received education in both United States and Australia.<br>
+My academic interest covered a broad topics including finance, economics, and statistics.</p>
+<h2 id="professional-experience">💼Professional Experience</h2>
+<p>My main professional experiences are focusing investment, which provides me a unique business prospects most data analysts and data scientists does not have.<br>
+This will help me to provide better insights and suggestions to the companies marketing, operations and other teams.</p>
+<h2 id="skills">🛠 Skills</h2>
 ]]></content>
     </entry>
 </feed>
