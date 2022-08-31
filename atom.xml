@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivenj.github.io</id>
     <title>Zhiyuan Jiang</title>
-    <updated>2022-08-31T03:09:18.908Z</updated>
+    <updated>2022-08-31T03:12:24.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://olivenj.github.io"/>
     <link rel="self" href="https://olivenj.github.io/atom.xml"/>
@@ -24,17 +24,17 @@
         <updated>2022-08-30T15:00:24.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Resume]]></title>
-        <id>https://olivenj.github.io/post/resume/</id>
-        <link href="https://olivenj.github.io/post/resume/">
-        </link>
-        <updated>2022-08-30T02:53:56.000Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[About Me]]></title>
         <id>https://olivenj.github.io/post/about/</id>
         <link href="https://olivenj.github.io/post/about/">
         </link>
         <updated>2022-08-30T01:59:19.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resume]]></title>
+        <id>https://olivenj.github.io/post/resume/</id>
+        <link href="https://olivenj.github.io/post/resume/">
+        </link>
+        <updated>2022-08-29T14:53:56.000Z</updated>
     </entry>
 </feed>
