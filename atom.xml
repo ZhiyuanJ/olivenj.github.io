@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://olivenj.github.io</id>
     <title>Zhiyuan Jiang</title>
-    <updated>2022-08-31T16:09:50.436Z</updated>
+    <updated>2022-08-31T16:10:41.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://olivenj.github.io"/>
     <link rel="self" href="https://olivenj.github.io/atom.xml"/>
@@ -17,17 +17,6 @@
         <updated>2022-08-30T04:55:38.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CAPM and penalized regression]]></title>
-        <id>https://olivenj.github.io/post/project-capm-and-penalized-regression/</id>
-        <link href="https://olivenj.github.io/post/project-capm-and-penalized-regression/">
-        </link>
-        <updated>2022-08-28T15:01:19.000Z</updated>
-        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://olivenj.github.io/post-images/1661961978814.png" alt="" loading="lazy"></figure>
-]]></summary>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://olivenj.github.io/post-images/1661961978814.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Retail Forecast]]></title>
         <id>https://olivenj.github.io/post/project-retail-forecast/</id>
         <link href="https://olivenj.github.io/post/project-retail-forecast/">
@@ -36,6 +25,17 @@
         <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://olivenj.github.io/post-images/1661956930422.jpg" alt="" loading="lazy"></figure>
 ]]></summary>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://olivenj.github.io/post-images/1661956930422.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAPM and penalized regression]]></title>
+        <id>https://olivenj.github.io/post/project-capm-and-penalized-regression/</id>
+        <link href="https://olivenj.github.io/post/project-capm-and-penalized-regression/">
+        </link>
+        <updated>2022-08-28T03:01:19.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://olivenj.github.io/post-images/1661961978814.png" alt="" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://olivenj.github.io/post-images/1661961978814.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
